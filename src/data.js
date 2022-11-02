@@ -31,12 +31,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Radio 10",
-            artist: "Radio10",
+            name:"Vintage FM",
+            artist: "VintageFM",
             cover: "https://img.freepik.com/foto-gratis/microfono-moderno_144627-41314.jpg",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://caster05.streampakket.com/proxy/8952/stream/1/",
+            audio: "https://stream.radio.co/sd60e90ab1/listen",
             active: false,
         },
         {
